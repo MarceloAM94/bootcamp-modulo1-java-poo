@@ -53,3 +53,29 @@ bootcamp-modulo1-java-poo/
 │   └── resumen_poo.md
 └── /recursos
     └── enlaces.txt
+
+## ✅ Progreso
+
+- [x] Fundamentos de Java
+- [x] Estructuras de control
+- [x] Clases y objetos
+- [x] Herencia e interfaces
+- [ ] Mini proyecto final (POO aplicada)
+
+---
+
+## 🔗 Recursos útiles
+
+- [Documentación oficial de Java](https://docs.oracle.com/en/java/)
+- [Java Online Compiler – JDoodle](https://www.jdoodle.com/)
+- [W3Schools – Java](https://www.w3schools.com/java/)
+
+---
+
+## ✍️ Autor
+
+**Marcelo Amaya**  
+Bootcamp Fullstack Java – CodiGo  
+[GitHub](https://github.com/MarceloAM94)  
+[LinkedIn](https://www.linkedin.com/in/marcelo-amaya-medina-614518268/)
+
