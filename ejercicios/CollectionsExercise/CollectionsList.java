@@ -59,7 +59,8 @@ public class CollectionsList {
         edades.forEach((clave, valor) -> System.out.println(clave + " Tiene " +  valor));
 
         //Queue
-        Queue<Integer> q1 = new ArrayDeque<>();
+        Queue<Integer> q1 = new PriorityQueue<>();
+
 
     }
 }
